@@ -1,5 +1,5 @@
 # Sarcasm Detection Model
-(This project has been done as a programing assignment for course "Natural Language Processing in Tensorflow" in Coursera.org website.
+(This project has been done as a programing assignment for course "Natural Language Processing in Tensorflow" in Coursera.org website.\n
 This repository contains a machine learning model for detecting sarcasm in news headlines using deep learning techniques. The model is built with TensorFlow and Keras and employs an LSTM-based architecture.
 
 ## Files
